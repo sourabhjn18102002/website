@@ -5,6 +5,9 @@ collections:
   homepage:
     title: Homepage
     output: false
+  people:
+    title: People
+    output: false
   posts:
     title: Posts
     output: true
@@ -17,6 +20,17 @@ defaults:
     type: homepage
   values:
     meta-data: ''
+- scope:
+    path: ''
+    type: people
+  values:
+    role-title: ''
+    headshot-image: ''
+    Is Core: ''
+    Is DAO: ''
+    twitter: ''
+    linkedin: ''
+    other-link: ''
 - scope:
     path: ''
     type: posts
