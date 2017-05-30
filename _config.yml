@@ -39,30 +39,30 @@ defaults:
     permalink: "/blog/:title/"
     featured-image: ''
     posts:
-    -
-    -
-    -
+    - 
+    - 
+    - 
 email: mdlorey@gmail.com
 description: A globally accessible and anonymous blockchain
-baseurl:
+baseurl: 
 url: https://zencash.io/
 author:
   name: Mike Lorey
   email: mdlorey@gmail.com
-  uri:
-  bio:
-  facebook:
+  uri: 
+  bio: 
+  facebook: 
   twitter: zencash_io
-  linkedin:
-  gplus:
-  youtube:
+  linkedin: 
+  gplus: 
+  youtube: 
 future: true
 show_drafts: true
 lsi: false
 permalink: pretty
 paginate: 6
 paginate_path: "/blog/page:num/"
-excerpt_separator:
+excerpt_separator: 
 markdown: kramdown
 cloudinary:
   cloud_name: dw4i3sw5c

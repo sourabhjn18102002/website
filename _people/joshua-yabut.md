@@ -1,6 +1,6 @@
 ---
 title: Joshua Yabut
-date: 2017-05-30 09:20:00 -05:00
+date: 2017-05-30 10:20:00 -04:00
 position: 1
 role-title: Core Developer / Security
 headshot-image: "/assets/img/people/josh.jpg"
@@ -8,7 +8,7 @@ Is Core: true
 Is DAO: false
 twitter: https://twitter.com/movrcx
 linkedin: https://www.linkedin.com/in/joshua-yabut-88616961/
-other-link:
+other-link: 
 ---
 
 Joshua is an experienced red teamer and exploit developer serving the aerospace industry. He has a passion for developing adversary-resistant networks and for redefining the status quo.
