@@ -2,6 +2,9 @@
 title: Zen
 timezone: America/New_York
 collections:
+  homepage:
+    title: Homepage
+    output: false
   posts:
     title: Posts
     output: true
@@ -9,6 +12,11 @@ collections:
     title: Uploads
     output: true
 defaults:
+- scope:
+    path: ''
+    type: homepage
+  values:
+    meta-data: ''
 - scope:
     path: ''
     type: posts

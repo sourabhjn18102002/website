@@ -13,7 +13,12 @@ layout: homepage
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-         <h1>The world's only <i>truly</i> <strong>private</strong> <strong>borderless</strong> <strong>decentralized</strong> platform for communications & transactions.</h1>  
+        {% for section in site.homepage %}
+          {% if section.title == 'Header' %}
+            {{ section.content }}
+          {% else %}
+          {% endif %}
+        {% endfor %}
       </div>
     </div>
     <div class="row align-items-center justify-content-center">
@@ -40,7 +45,7 @@ layout: homepage
         </form>
         <p class="lead mt-5">
           <i>BUY ZENCASH - The Coin That Can’t Be Silenced (Launching on Bittrex Soon)</i>
-        </p> 
+        </p>
       </div>
     </div>
   </div>
