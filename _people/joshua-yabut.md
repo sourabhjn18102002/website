@@ -2,7 +2,7 @@
 title: Joshua Yabut
 date: 2017-05-30 09:20:00 -05:00
 position: 1
-job-title: Core Developer / Security
+role-title: Core Developer / Security
 headshot-image: "/assets/img/people/josh.jpg"
 Is Core: true
 Is DAO: false
